@@ -6,7 +6,7 @@
          "lastName": "Benedictos"
       }
    ],
-   "wallet": [
+   "wallets": [
       {
          "id": 1,
          "user": 1,
