@@ -1,8 +1,16 @@
 {
-  "users": [
-    {"id": 1, "firstName": "Dominic Vince", "lastName": "Benedictos"}
-  ],
-  "wallet": [
-    {"id": 1, "user": 1, "balance": 10739.36}
-  ],
+   "users": [
+      {
+         "id": 1,
+         "firstName": "Dominic Vince",
+         "lastName": "Benedictos"
+      }
+   ],
+   "wallet": [
+      {
+         "id": 1,
+         "user": 1,
+         "balance": 10739.36
+      }
+   ]
 }
