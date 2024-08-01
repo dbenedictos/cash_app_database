@@ -12,5 +12,14 @@
          "user": 1,
          "balance": 10739.36
       }
+   ],
+   "transactions": [
+      {
+         "id": 1,
+         "user": 1,
+         "referenceNumber": "GHK234KKO34",
+         "amount": 50.00,
+         "postedDate": "1944-06-06 00:00:00.000Z"
+      }
    ]
 }
