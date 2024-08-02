@@ -35,7 +35,7 @@
          "user": 1,
          "referenceNumber": "T6I2V1D0W9M3",
          "amount": 123.45,
-         "type": 0,
+         "type": 1,
          "postedDate": "1995-11-20 22:10:33.543210Z"
       },
       {
