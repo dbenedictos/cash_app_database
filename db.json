@@ -35,7 +35,7 @@
          "user": 1,
          "referenceNumber": "T6I2V1D0W9M3",
          "amount": 123.45,
-         "type": 1,
+         "type": 0,
          "postedDate": "1995-11-20 22:10:33.543210Z"
       },
       {
@@ -59,7 +59,7 @@
          "user": 1,
          "referenceNumber": "Q3F2S1A0Z6J0",
          "amount": 432.10,
-         "type": 0,
+         "type": 1,
          "postedDate": "2021-09-01 19:45:36.203456Z"
       },
       {
@@ -75,7 +75,7 @@
          "user": 1,
          "referenceNumber": "O1D0Q9X8W4G8",
          "amount": 123.45,
-         "type": 0,
+         "type": 1,
          "postedDate": "2004-03-21 16:13:38.304321Z"
       },
       {
@@ -99,7 +99,7 @@
          "user": 1,
          "referenceNumber": "K8A7Z6S5R4D5",
          "amount": 987.65,
-         "type": 1,
+         "type": 0,
          "postedDate": "1998-01-04 21:56:41.954321Z"
       },
       {
@@ -115,7 +115,7 @@
          "user": 1,
          "referenceNumber": "I6Y5X4Q3P2B3",
          "amount": 765.43,
-         "type": 1,
+         "type": 0,
          "postedDate": "1974-08-23 17:25:23.054321Z"
       },
       {
@@ -131,7 +131,7 @@
          "user": 1,
          "referenceNumber": "G4W3V2O1N0Z1",
          "amount": 987.65,
-         "type": 1,
+         "type": 0,
          "postedDate": "1986-02-11 13:54:05.154321Z"
       },
       {
@@ -147,7 +147,7 @@
          "user": 1,
          "referenceNumber": "E2U1T0M9L8X9",
          "amount": 765.43,
-         "type": 1,
+         "type": 0,
          "postedDate": "1970-09-01 19:22:47.254321Z"
       },
       {
@@ -171,7 +171,7 @@
          "user": 1,
          "referenceNumber": "B9R8Q7J6I5U6",
          "amount": 123.45,
-         "type": 0,
+         "type": 1,
          "postedDate": "2006-06-14 03:05:50.904321Z"
       }
    ]
